@@ -1,1 +1,2 @@
-hello world
+print("how do I turn this into a python file?")
+System.out.println("IDK, but this would crash it anyway);
